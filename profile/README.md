@@ -1,10 +1,5 @@
 # Team 9 Project : NFT Identity Card with Zero-Knowledge Proof
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0c8831b4-daec-417f-961c-c5a799cdad5a)"/>
-</p>
-
 ![logo](https://github.com/user-attachments/assets/0c8831b4-daec-417f-961c-c5a799cdad5a)
-
 
 ## Overview : 
 There are two components to our project : 
