@@ -1,5 +1,8 @@
 # Team 9 Project : NFT Identity Card with Zero-Knowledge Proof
-![logo](https://github.com/user-attachments/assets/39a8eaab-f095-4b97-9b95-e4b70e765d2b)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/39a8eaab-f095-4b97-9b95-e4b70e765d2)" />
+</p>
+
 ## Overview : 
 There are two components to our project : 
 - The **NFT-Issuer** - primarily meant for "Institution Admins" to **mint** "Identity Card NFTs" to their institution's various users, such as students and professors for University or employees and interns for Companies.
