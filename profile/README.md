@@ -35,7 +35,7 @@ With the above in mind, we'd propose a new framework that utilizes the strength 
 
 4. Lastly, the reader should proceed to the [ZKP-generator repository](https://github.com/VeriZKP/zkp-generator) and follow the instructions to deploy the website with the correct Contract ABI and Contract Address
 
-Alternatively, the reader can view a complete project demonstration on this [YouTube Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+Alternatively, the reader can view a complete project demonstration on this [YouTube Link](https://www.youtube.com/watch?v=yVlxf9BjzJQ).
 
 # About Team 9
 - Lin Zhenming (Team Lead & Fullstack Developer) [LinkedIn](https://www.linkedin.com/in/elz-ming/)
